@@ -1,0 +1,7 @@
+Gelatinous Cube
+Rust Monster
+Carrion Crawler
+Hobgoblin
+Goblin
+Beholder
+Dragon
